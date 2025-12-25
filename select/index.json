@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "SINOSIJAK",
+  "base_artist": "iKON",
+  "createdAt": "2025-12-25T01:37:40.834337Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SINOSIJAK",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/01_SINOSIJAK_iKON.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SINOSIJAK (JP version)",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/02_SINOSIJAK_(JP_version)_iKON.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SINOSIJAK",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/03_SINOSIJAK_iKON.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SINOSIJAK - REMIX iKON JAPAN TOUR 2018",
+      "artist": "iKON",
+      "has_synced": false,
+      "path": "select/04_SINOSIJAK_-_REMIX_iKON_JAPAN_TOUR_2018_iKON.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SINOSIJAK REMIX [iKON JAPAN TOUR 2019 at MAKUHARI MESSE_2019.9.8]",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/05_SINOSIJAK_REMIX_[iKON_JAPAN_TOUR_2019_at_MAKUHARI_MESSE_2019.9.8]_iKON.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SINOSIJAK REMIX",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/06_SINOSIJAK_REMIX_iKON.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SINOSIJAK REMIX (iKON JAPAN DOME TOUR 2017 ADDITIONAL SHOWS)",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/07_SINOSIJAK_REMIX_(iKON_JAPAN_DOME_TOUR_2017_ADDITIONAL_SHOWS)_iKON.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SINOSIJAK",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/08_SINOSIJAK_iKON.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SINOSIJAK -KR Ver.-",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/09_SINOSIJAK_-KR_Ver.-_iKON.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SINOSIJAK (Remix)",
+      "artist": "iKON",
+      "has_synced": true,
+      "path": "select/10_SINOSIJAK_(Remix)_iKON.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sinosijak",
+      "artist": "iKON",
+      "has_synced": false,
+      "path": "select/pl_01_Sinosijak_iKON.txt"
+    }
+  ]
+}
